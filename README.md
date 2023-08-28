@@ -5,9 +5,8 @@ A simple web-based To-Do List application built using HTML, CSS, and JavaScript.
 # Table of Contents
 - Description
 - Features
-- Installation
 - Usage
-- License
+
 ## Description
 This is a basic To-Do List application that allows users to add tasks, mark them as completed, edit task descriptions, and delete tasks.
 
